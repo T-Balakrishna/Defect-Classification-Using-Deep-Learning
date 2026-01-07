@@ -57,7 +57,3 @@ The codebase is structured to make it straightforward to:
 - Swap datasets or add new defect classes.  
 - Replace or extend the CNN backbone.  
 - Integrate additional deployment options (e.g., Docker, cloud hosting, or API gateways).
-
-## 🧑‍💻 Author
-<strong>Balakrishna T</strong><br>
-💼 [GitHub](https://github.com/T-Balakrishna) • 🌐 [Portfolio](https://balakrishnat.vercel.app) • ✉️ [Email](https://mail.google.com/mail/?view=cm&to=tbalakrishna2005@gmail.com)
